@@ -1,12 +1,14 @@
 package main
-
+//imports fmt and time 
 import (
 	"fmt"
 	"time"
-)
+)//import
 
 func main() {
-	fmt.Println("Welcome to the playground!")
+	//prints current time and date to screen
+	fmt.Println("The current date and time is", time.Now())
+}//main
 
-	fmt.Println("The time is", time.Now())
-}
+//source
+//https://tour.golang.org/welcome/4
