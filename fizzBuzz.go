@@ -1,5 +1,5 @@
 package main
-
+//imports fmt package
 import "fmt"
 //use for loop to run from 1 - 100
 func main() {
