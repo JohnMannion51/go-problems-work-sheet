@@ -1,12 +1,12 @@
 package main
 
 import (
- "fmt"
- "strings"
+ "fmt"		// Import for input/output
+ "strings"	// Import for strings
 )
 
 func main() {
-
+//takes input from user
  var ip string
  fmt.Println("Enter string:")
  fmt.Scanf("%s\n", &ip)
