@@ -7,18 +7,19 @@ problem such as newton's method for square roots. The work sheet can be found [h
 
 Running the code
 
-To run the code in this repository, the files must first be compiled. The Go [compiler](https://golang.org/doc/install) must first be installed on your machine. 
-Once that is installed, the code can be compiled and run by following these steps. We assume you are using the command line.
+To run the code in this repository, the files must first be compiled. The Go [compiler](https://golang.org/doc/install) 
+must first be installed on your machine. Once that is installed, the code can be compiled and run by following these 
+steps. We assume you are using the command line.
 
 Clone this repository using Git.
-> git clone https://github.com/data-representation/go-examples  (url of git repository)
+1. git clone https://github.com/johnmannion51/go-problems-work-sheet (or other url of git repository)
 Change into the folder.
-> cd go-examples
+2. cd go-problems-work-sheet
 Compile the first file with the following command.
-> go build 01-hello-world.go 
+3. go build 01-hello-world.go 
 (this will produce an executable file)
 Run the executable produced.
-> ./01-hello-world.exe
+4. ./01-hello-world.exe
 Hello, world!
 Repeat steps 3 and 4 above, replacing the filenames as appropriate.
 > go compile <filename.go>
