@@ -55,15 +55,15 @@ func xrand(min, max int) int {
 
 func main() {
     var myname string
-	//calls xrand function to generate a random number between 1 - 6
-    myrand := xrand(1, 6)
+	//calls xrand function to generate a random number between 1 - 10
+    myrand := xrand(1, 10)
 	//declared variables for user input
     guessTaken := 0
     var guess int
 	//prompts the user to enter a name and explains the rules of the game
     fmt.Println("Hello! What is your name?")
     fmt.Scanf("%s", &myname)
-    fmt.Printf("Hello, %s, I am thinking of a number between 1 and 6.\n", myname)
+    fmt.Printf("Hello, %s, I am thinking of a number between 1 and 10.\n", myname)
     
     //this is the for loop used to prompt the user to take a guess 
 	//if the users guess is too low they are prompted to have another go
