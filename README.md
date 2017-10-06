@@ -30,16 +30,16 @@ go compile <filename.go>
 The GO problem worksheet can be found [here](https://data-representation.github.io/problems/go-fundamentals.html)
 
 ## List of GO problems
-1.Hello World in Japanese
-2.Current time and date
-3.Fizz Buzz
-4.Factorial
-5.Guessing Game
-6.High low
-7.Palindrome
-8.Merge sort
-9.Newton's square roots
-10.Palindrome
+1. Hello World in Japanese
+2. Current time and date
+3. Fizz Buzz
+4. Factorial
+5. Guessing Game
+6. High low
+7. Palindrome
+8. Merge sort
+9. Newton's square roots
+10. Palindrome
 
 ## Issues with Go
 While using Go I found a frustrating problem when it came to taking in user input. In the guessing game when the program ran
