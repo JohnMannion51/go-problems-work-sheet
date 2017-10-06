@@ -4,13 +4,12 @@ data representation and query our class was given the oppourtunity to learn a ne
 This is a new programming language that has been developed by google and was officially released as Go version 1.0 in March 2012. 
 
 This repository contains a number of go problem solutions. The go problems vary from a simple hello world program to a more complicated 
-problem such as newton's method for square roots. The work sheet can be found [here](https://data-representation.github.io/problems/go-fundamentals.html)  .
+problem such as newton's method for square roots.
 
 # Running the code
 
 To run the code in this repository, the files must first be compiled. The Go [compiler](https://golang.org/doc/install) 
-must first be installed on your machine. Once that is installed, the code can be compiled and run by following these 
-steps. We assume you are using the command line.
+must first be installed on your machine. Once that is installed, the code can be compiled and run by following these steps. We assume you are using the command line or alternatively you can use [cmder](https://cmder.en.softonic.com/).
 
 ## Clone this repository using Git.
 1. git clone https://github.com/johnmannion51/go-problems-work-sheet (or other url of git repository)
