@@ -20,11 +20,11 @@ Compile the first file with the following command.
 3. go build 01-hello-world.go 
 (this will produce an executable file)
 Run the executable produced.
-4. ./01-hello-world.exe
+4. 01-hello-world.exe
 Hello, world!.
-5.Repeat steps 3 and 4 above, replacing the filenames as appropriate.
-go compile <filename.go>
-./<filename.exe>
+5. Repeat steps 3 and 4 above, replacing the filenames as appropriate.
+6. go compile filename.go
+7. filename.exe
 
 # Worksheet
 The GO problem worksheet can be found [here](https://data-representation.github.io/problems/go-fundamentals.html)
